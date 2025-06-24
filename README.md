@@ -1,10 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Matheus+Dolenga!;Welcome+to+my+coding+lab!;Full+stack+in+progress...+🧪" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Matheus+Dolenga;Full+Stack+in+Progress;Welcome+to+my+lab+🧪&center=true&width=500&height=45" />
 </p>
+
 
 ---
 
