@@ -34,8 +34,8 @@ const matheus = {
 ### 💼 Projects I’m Working On
 
 - 🔨 `exercises-sandbox`: my personal repo of logic, function, and algorithmic practice
-- 🪓 `MeuMachadoPoderoso`: a Stardew Valley mod to make tools… *powerful*
-- ⚔️ Skyrim mod: bonus attack speed based on weapon skill level
+- 🪓 `Stardew Valley mods`: aiming to improve the game with QOL mods, WIP
+- ⚔️ `Skyrim mods`: bonus attack speed based on weapon skill level, WIP
 
 ---
 
