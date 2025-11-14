@@ -1,38 +1,63 @@
-# Olá! Sou o Matheus 👋
-
-## 🤙 Developer & Criador de Soluções
-
-Entre a linha de código e o universo da cultura pop, meu objetivo é desenvolver soluções que realmente agreguem valor para as pessoas. Acho que software pode ser tão mágico quanto uma varinha do Harry Potter (e, às vezes, tão imprevisível quanto o R2-D2 travado).
-
-### 🚀 Em que estou trabalhando agora
-
-- **Alerta Edital** – um app que vasculha a internet em busca de editais de concursos públicos e envia alertas para você não perder prazos. Sem decoreba, sem stress, só notificação na hora certa.
-- **Painel Personalizado para Prefeitura** – um dashboard totalmente customizado, com front‑end e back‑end feitos na unha, para ajudar a prefeitura a tomar decisões informadas e de forma eficiente. Quem disse que dados públicos não podem ser organizados com estilo?
-
-### 🛠️ Ferramentas e Tecnologias
-
-Uso essas poderosas “relíquias do programador” no meu dia a dia (e sim, elas já salvaram o mundo umas duas vezes nos meus sonhos):
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Matheus+Dolenga;Full+Stack+in+Progress;Welcome+to+my+lab+🧪&center=true&width=500&height=45" />
 </p>
 
-### 🎯 Objetivo
 
-Como empreendedor, o meu foco é transformar ideias em produtos reais, sempre com um toque de humor e criatividade. Se um código não te faz sorrir de vez em quando (ou chorar), está faltando alguma coisa.
+---
+
+### 🚀 About Me
+
+```js
+const matheus = {
+  role: "Computer Science Student 👨‍💻",
+  loves: ["C++", "Python", "JavaScript", "Open Source"],
+  current_focus: ["Full Stack Dev", "Game Modding", "Clean Code"],
+  skills: {
+    frontEnd: ["HTML", "CSS", "JavaScript", "React (soon)"],
+    backEnd: ["Node.js (soon)", "Python", "C++"],
+    others: ["Git", "CLI", "Modding APIs", "SMAPI", "Creation Kit"]
+  },
+  funFact: "Breaks things just to fix them better ⚒️"
+}
+```
+
+---
+
+### 🛠️ My Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,vscode,git,github,linux,visualstudio" />
+</p>
+
+---
+
+### 💼 Projects I’m Working On
+
+- 🔨 `exercises-sandbox`: my personal repo of logic, function, and algorithmic practice
+- 🪓 `Stardew Valley mods`: aiming to improve the game with QOL mods, WIP
+- ⚔️ `Skyrim mods`: bonus attack speed based on weapon skill level, WIP
+
+---
 
 ### 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=matheusdolenga&show_icons=true&theme=tokyonight)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdolenga&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusdolenga&show_icons=true&theme=tokyonight&hide=stars&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdolenga&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🤝 Vamos Conectar?
+---
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [GitHub](https://github.com/matheusdolenga)
+### 📡 Let's Connect!
 
-> “Na dúvida, adicione um meme. Humor torna até erros de compilação mais suportáveis.” 😄
+<p align="center">
+  <a href="https://github.com/matheusdolenga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheusdolenga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:matheusdolenga21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+> _“Code is the closest thing we have to magic.”_ ✨  
+> _— Me, after fixing a bug at 3:00 AM_
