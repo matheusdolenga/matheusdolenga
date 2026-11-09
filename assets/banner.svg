@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Matheus Dolenga — tecnologia, ideias e aprendizado</title>
+<desc id="desc">Banner escuro com grade, detalhes em ciano e violeta, órbitas animadas e um terminal com as palavras explorar, construir e evoluir.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d19"/><stop offset="1" stop-color="#15102b"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset=".55" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".2"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  <clipPath id="corners"><rect width="1200" height="350" rx="22"/></clipPath>
+</defs>
+<style>
+  .orbit{transform-origin:1035px 175px;animation:spin 36s linear infinite}
+  .pulse{animation:pulse 3s ease-in-out infinite}
+  .cursor{animation:blink 1.2s steps(2,end) infinite}
+  .line{stroke-dasharray:8 12;animation:flow 8s linear infinite}
+  .float{animation:float 6s ease-in-out infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes pulse{50%{opacity:.35}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes flow{to{stroke-dashoffset:-160}}
+  @keyframes float{50%{transform:translateY(-7px)}}
+  @media(prefers-reduced-motion:reduce){.orbit,.pulse,.cursor,.line,.float{animation:none}}
+</style>
+<g clip-path="url(#corners)">
+  <rect width="1200" height="350" fill="url(#bg)"/>
+  <rect width="1200" height="350" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="120" rx="390" ry="290" fill="url(#glow)"/>
+  <path d="M0 348H1200" stroke="url(#accent)" stroke-width="4"/>
+  <g fill="none" stroke="#a78bfa" stroke-opacity=".18">
+    <circle cx="1035" cy="175" r="148"/><circle cx="1035" cy="175" r="187"/>
+  </g>
+  <g class="orbit"><circle cx="1035" cy="27" r="4" fill="#67e8f9"/><circle cx="1035" cy="323" r="3" fill="#c084fc"/></g>
+  <path class="line" d="M600 175H705M1065 175H1200" stroke="#67e8f9" stroke-opacity=".45"/>
+  <text x="60" y="62" fill="#67e8f9" font-family="monospace" font-size="12" letter-spacing="4">IDEIAS EM MOVIMENTO</text>
+  <text x="56" y="143" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2">MATHEUS</text>
+  <text x="56" y="210" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2">DOLENGA</text>
+  <text x="60" y="255" fill="#a7b4c9" font-family="Segoe UI,Arial,sans-serif" font-size="18">Tecnologia, curiosidade e projetos na prática.</text>
+  <circle class="pulse" cx="65" cy="302" r="4" fill="#34d399"/>
+  <text x="80" y="306" fill="#94a3b8" font-family="monospace" font-size="12" letter-spacing="1">SEMPRE EM CONSTRUÇÃO</text>
+  <g class="float">
+    <rect x="704" y="78" width="420" height="218" rx="14" fill="#080d19" stroke="#334155"/>
+    <path d="M705 118H1123" stroke="#263147"/>
+    <circle cx="725" cy="98" r="5" fill="#fb7185"/><circle cx="743" cy="98" r="5" fill="#fbbf24"/><circle cx="761" cy="98" r="5" fill="#34d399"/>
+    <text x="793" y="103" fill="#64748b" font-family="monospace" font-size="12">~/matheus/workspace</text>
+    <g font-family="monospace" font-size="16">
+      <text x="730" y="158" fill="#67e8f9">&gt; explorar<tspan fill="#64748b"> novas ideias</tspan></text>
+      <text x="730" y="193" fill="#a78bfa">&gt; construir<tspan fill="#64748b"> algo útil</tspan></text>
+      <text x="730" y="228" fill="#34d399">&gt; evoluir<tspan fill="#64748b"> a cada projeto</tspan></text>
+      <text x="730" y="269" fill="#e2e8f0">$</text>
+    </g>
+    <rect class="cursor" x="751" y="255" width="9" height="17" rx="1" fill="#67e8f9"/>
+  </g>
+</g>
+</svg>
