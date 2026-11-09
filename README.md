@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> &nbsp; / &nbsp;
-  <a href="#tecnologias">Tecnologias</a> &nbsp; / &nbsp;
-  <a href="#explorar">Explorar</a> &nbsp; / &nbsp;
-  <a href="#atividade">Atividade</a> &nbsp; / &nbsp;
-  <a href="#contato">Contato</a>
+  <a href="#user-content-sobre">Sobre</a> &nbsp; / &nbsp;
+  <a href="#user-content-tecnologias">Tecnologias</a> &nbsp; / &nbsp;
+  <a href="#user-content-explorar">Explorar</a> &nbsp; / &nbsp;
+  <a href="#user-content-atividade">Atividade</a> &nbsp; / &nbsp;
+  <a href="#user-content-contato">Contato</a>
 </p>
 
 <p align="center">
@@ -193,5 +193,5 @@ Uma ferramenta interessante, um projeto ou uma boa conversa sobre tecnologia: os
 
 <p align="center">
   <sub>Uma ideia de cada vez. Um projeto em evolução.</sub><br /><br />
-  <a href="#top">↑ Voltar ao topo</a>
+  <a href="#user-content-top">↑ Voltar ao topo</a>
 </p>
