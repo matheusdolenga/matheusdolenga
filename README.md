@@ -161,7 +161,7 @@ I'm interested in software development, automation, and tools that solve everyda
 
 <p align="center">
   <a href="https://github.com/matheusdolenga?tab=overview">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusdolenga&amp;bg_color=0d1117&amp;color=a5b4fc&amp;line=67e8f9&amp;point=c084fc&amp;area=true&amp;area_color=818cf8&amp;hide_border=true&amp;custom_title=Atividade%20recente" width="100%" alt="Gráfico de contribuições recentes no GitHub" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusdolenga&amp;theme=tokyonight" width="100%" alt="Resumo visual das contribuições públicas no GitHub" />
   </a>
 </p>
 
@@ -174,7 +174,7 @@ I'm interested in software development, automation, and tools that solve everyda
 
 Os cartões refletem dados públicos, usam cache e podem levar algum tempo para atualizar.
 
-Recursos visuais: [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), [Skill Icons](https://github.com/tandpfun/skill-icons), [Shields.io](https://shields.io/), [Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) e [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph). Banner e divisores próprios em [assets](assets/).
+Recursos visuais: [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg), [Skill Icons](https://github.com/tandpfun/skill-icons), [Shields.io](https://shields.io/), [Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards). Banner e divisores próprios em [assets](assets/).
 
 </details>
 
