@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Divisor animado em ciano e violeta">
+<defs><linearGradient id="trail"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc" stop-opacity="0"/></linearGradient></defs>
+<style>.beam{animation:scan 8s ease-in-out infinite alternate}@keyframes scan{to{transform:translateX(900px)}}@media(prefers-reduced-motion:reduce){.beam{animation:none;transform:translateX(450px)}}</style>
+<path d="M0 14H1200" stroke="#64748b" stroke-opacity=".2"/>
+<rect class="beam" x="0" y="13" width="300" height="2" rx="1" fill="url(#trail)"/>
+</svg>
